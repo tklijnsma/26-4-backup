@@ -1,0 +1,11 @@
+Counter leptons :
+	 any                                            446 	 1.00 	 1.0000
+	 mu_tight                                       120 	 0.27 	 0.2691
+	 mu_tight_veto                                   35 	 0.29 	 0.0785
+	 mu_loose                                       159 	 4.54 	 0.3565
+	 mu_loose_veto                                    0 	 0.00 	 0.0000
+	 el_tight                                       108 	 -1.00 	 0.2422
+	 el_tight_veto                                   33 	 0.31 	 0.0740
+	 el_loose                                       140 	 4.24 	 0.3139
+	 el_loose_veto                                   16 	 0.11 	 0.0359
+

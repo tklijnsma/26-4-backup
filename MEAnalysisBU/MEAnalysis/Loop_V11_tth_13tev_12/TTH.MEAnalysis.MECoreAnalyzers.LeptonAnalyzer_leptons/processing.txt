@@ -1,0 +1,7 @@
+Counter processing :
+	 processed                                  1000000 	 1.00 	 1.0000
+	 passes                                      240207 	 0.24 	 0.2402
+	 sl                                          213894 	 0.89 	 0.2139
+	 dl                                           28317 	 0.13 	 0.0283
+	 slanddl                                       1002 	 0.04 	 0.0010
+

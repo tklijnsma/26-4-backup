@@ -1,0 +1,4 @@
+Counter processing :
+	 processed                                       93 	 1.00 	 1.0000
+	 passes                                          93 	 1.00 	 1.0000
+

@@ -1,0 +1,9 @@
+Counter processing :
+	 processed                                       93 	 1.00 	 1.0000
+	 passes                                          93 	 1.00 	 1.0000
+	 NOCAT                                           51 	 0.55 	 0.5484
+	 cat1                                            16 	 0.31 	 0.1720
+	 cat2                                             1 	 0.06 	 0.0108
+	 cat3                                            23 	 23.00 	 0.2473
+	 cat6                                             2 	 0.09 	 0.0215
+

@@ -1,0 +1,4 @@
+Counter processing :
+	 processed                                   104301 	 1.00 	 1.0000
+	 passes                                      104301 	 1.00 	 1.0000
+

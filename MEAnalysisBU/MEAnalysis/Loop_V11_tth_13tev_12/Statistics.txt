@@ -1,0 +1,14 @@
+Statistics:
+n_processed       = 104301
+n_not_cat1        = 89559
+n_no_httCand      = 10193
+n_survivedcut     = [1997, 2356, 196]
+n_too_few_WZ      = 97
+n_too_few_B       = 0
+n_too_many_WZ     = 62
+n_too_many_B      = 0
+n_2q_for_1j       = 70
+n_no_jet_for_q    = 1481
+n_no_unique_match = 0
+n_successful      = 842
+
